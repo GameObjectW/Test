@@ -4,3 +4,9 @@
 /Users/ng/Projects/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
 /Users/ng/Projects/Test/Test/obj/x86/Debug/Test.exe
 /Users/ng/Projects/Test/Test/obj/x86/Debug/Test.pdb
+/Users/ng/Test/Test/obj/x86/Debug/Test.csprojAssemblyReference.cache
+/Users/ng/Test/Test/obj/x86/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/ng/Test/Test/obj/x86/Debug/Test.exe
+/Users/ng/Test/Test/obj/x86/Debug/Test.pdb
+/Users/ng/Test/Test/bin/Debug/Test.exe
+/Users/ng/Test/Test/bin/Debug/Test.pdb
