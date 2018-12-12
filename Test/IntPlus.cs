@@ -28,14 +28,14 @@ namespace Test
             return null;
         }
 
-        public static void Main(string[] args)
-        {
-            IntPlus mc = new IntPlus();
-            foreach (var item in mc.TwoSum(mc.numArray, mc.target))
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine();
-        }
+        //public static void Main(string[] args)
+        //{
+        //    IntPlus mc = new IntPlus();
+        //    foreach (var item in mc.TwoSum(mc.numArray, mc.target))
+        //    {
+        //        Console.WriteLine(item);
+        //    }
+        //    Console.WriteLine();
+        //}
     }
 }
