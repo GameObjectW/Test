@@ -37,6 +37,8 @@
     <Compile Include="IntPlus.cs" />
     <Compile Include="Reverse32int.cs" />
     <Compile Include="RomanToIntTest.cs" />
+    <Compile Include="LongestCommonPrefix.cs" />
+    <Compile Include="IsValid.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
