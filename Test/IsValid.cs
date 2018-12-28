@@ -36,11 +36,11 @@ namespace Test
             return stack.Count == 0;
         }
 
-        public static void Main(String[] args)
-        {
-            IsValid isValid = new IsValid();
-            Console.WriteLine("Is Successful : " + isValid.isValid("{}[](){}"));
-        }
+        //public static void Main(String[] args)
+        //{
+        //    IsValid isValid = new IsValid();
+        //    Console.WriteLine("Is Successful : " + isValid.isValid("{}[](){}"));
+        //}
     }
 
 }

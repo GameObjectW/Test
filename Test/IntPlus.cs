@@ -27,6 +27,24 @@ namespace Test
             }
             return null;
         }
+        public int[] TwoSumTwo(int[] nums, int target)
+        {
+            int one = 0;
+            for (int i = 0; i < nums.Length-1; i++)
+            {
+                one = nums[i];
+                int two = target - one;
+                for (int j = i+1; j < nums.Length; j++)
+                {
+                    if (nums[j]==two)
+                    {
+                        return new int[] { i, j };
+                    }
+                }
+            }
+            return new int[] { 0, 0 };
+        }
+
 
         //public static void Main(string[] args)
         //{

@@ -39,6 +39,11 @@
     <Compile Include="RomanToIntTest.cs" />
     <Compile Include="LongestCommonPrefix.cs" />
     <Compile Include="IsValid.cs" />
+    <Compile Include="MergeTwoLists.cs" />
+    <Compile Include="RemoveDuplicates.cs" />
+    <Compile Include="RemoveElement.cs" />
+    <Compile Include="StrStr.cs" />
+    <Compile Include="MaxSubArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

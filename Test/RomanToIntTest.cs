@@ -7,6 +7,7 @@ namespace Test
     {
         public int RomanToInt(String s){
             char[] array = s.ToCharArray();
+           
             Dictionary<char, int> map = new Dictionary<char, int>
             {
                 { 'I', 1 },
